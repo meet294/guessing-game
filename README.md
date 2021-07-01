@@ -1,4 +1,6 @@
 # guessing-game
+A command-prompt game made with pure python
+
 All you have to do is guess the number.
 
 
